@@ -1,1 +1,1 @@
-web: gunicorn hrishikeshmoholkarprofile.wsgi --log-file -
+web: gunicorn hrishikeshmoholkarprofile:app
