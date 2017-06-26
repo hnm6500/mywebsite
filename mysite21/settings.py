@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Profile.apps.ProfileConfig',
-    'hrishikeshmoholkarprofile.herokuapp.com'
+    'mysite21'
 ]
 
 MIDDLEWARE_CLASSES = [

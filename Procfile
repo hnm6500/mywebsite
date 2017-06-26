@@ -1,1 +1,1 @@
-web: gunicorn hrishikeshmoholkarprofile.wsgi --log-file -
+web: gunicorn mysite21.wsgi --log-file -
