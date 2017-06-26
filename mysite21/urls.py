@@ -20,4 +20,5 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^Profile/', include('Profile.urls')),
     url(r'^Forum/', include('Profile.urls')),
+    url(r'^hrishikeshmoholkarprofile.herokuapp.com/',include('Profile.urls'))
 ]
