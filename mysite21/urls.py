@@ -21,5 +21,5 @@ urlpatterns = [
     url(r'^Profile/', include('Profile.urls')),
     url(r'^Forum/', include('Profile.urls')),
     url(r'^https://hrishikeshmoholkarprofile.herokuapp.com/',include('Profile.urls'))
-     
+
 ]

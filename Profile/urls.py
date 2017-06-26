@@ -15,6 +15,7 @@ urlpatterns = [
     url (r'^detail6$',views.detail6,name='detail6'),
     url (r'^detail7$',views.detail7,name='detail7'),
 
-    url(r'^Forum',views.get_message,name='Forum')
+    url(r'^Forum',views.get_message,name='Forum'),
+     url(r'^https://hrishikeshmoholkarprofile.herokuapp.com/',views.homepage,name='homepage' ),
 
 ]
