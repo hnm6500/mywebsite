@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'mysite21.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'degbbhldn3e1ql',
         'USER':'bfqfpkyasxjjvw',
         'PASSWORD':'ccbb5d7e049f323584d5bcf86b8a42dacc7a82f5ebd25629900854925b05e7da',
